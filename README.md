@@ -1,3 +1,4 @@
+<!--
 # CRUD
 CRUD는 기본적인 데이터 처리 기능인 Create(생성), Read(읽기), Update(갱신), Delete(삭제)를 의미한다.
 
@@ -18,7 +19,7 @@ CRUD는 기본적인 데이터 처리 기능인 Create(생성), Read(읽기), Up
 ## 아쉬운점
 1. 데이터 생성, 읽기는 가능하나 갱신,삭제 기능이 없다.
 2. 더 공부를 해서 해당 프로젝트에 갱신, 삭제 기능을 추가하거나 CRUD 4조건을 모두 만족하는 새로운 프로젝트를 해볼 계획이다.
-
+-->
 
 # 영상
 https://user-images.githubusercontent.com/98271218/222914719-781015a4-cdb7-4d7b-adfd-048dd1b5a99f.mp4
